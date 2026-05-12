@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/badhon/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Badhon](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/badhon/) |
+| **Get License** | [Commercial Licensing for Badhon](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/badhon/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `2219b271ff684eb74d767b23e726209ced6de42c1970976c1555d90093ea26bb` |
 | **Timestamp** | May 12, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

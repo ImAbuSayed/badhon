@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Badhon
+
+This log tracks the cryptographic history and versioning for the song **Badhon** (badhon).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-12T08:22:58.210622 | `v1` | `2219b271ff684eb74d767b23e726209ced6de42c1970976c1555d90093ea26bb` | `ff232c2ebaa939e0719b0b062dc17b8b7fd1f4a9634bd299f1c2d857c00fcbb8` | `2026-05-12_badhon-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
